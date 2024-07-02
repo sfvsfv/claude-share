@@ -1,5 +1,5 @@
 # claude-share
-项目目前初步上线～体验授权码：123456
+项目目前初步上线～体验授权码打开网站查看，如果提问报错，则是共享授权码超过我设置的频率了。
 
 站点：https://claude.zhangsan.cool
 
@@ -8,6 +8,11 @@
 
 
 <img width="1559" alt="image" src="https://github.com/sfvsfv/claude-share/assets/62045791/5ed240f3-0671-4803-b4fc-15c7be2a5971">
+
+
+## 功能简要
+输入授权码，直达官网。有前后端，可设置授权码的频率次数。
+
 
 ## 编程语言
 纯python驱动，python是世界上最强最简单的编程语言
