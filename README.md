@@ -2,6 +2,8 @@
 
 站点：https://claude.zhangsan.shop
 
+售后群或者这里的右侧可以下载客户端。
+
 ## 演示效果
 <img width="1630" alt="image" src="https://github.com/sfvsfv/claude-share/assets/62045791/d443f0b4-ebea-4d57-a4ec-a2d4dcec5fef">
 
@@ -15,14 +17,25 @@
 ![a12d87d36b0919bb93a67f35c275843b](https://github.com/sfvsfv/claude-share/assets/62045791/27c493dc-9b06-4b18-85f4-cdbebbf887d5)
 
 
-
-## 售后群
-qq群：705213953
-
-<img width="291" alt="image" src="https://github.com/sfvsfv/claude-share/assets/62045791/8bfba0bb-061d-49d5-b1f8-abfcfb2942f6">
+## 教程（不定时更新）
 
 
-## 同款官网直达ChatGPT站点演示
+### 流程图/各自图绘制
+参考我的提问方式如下，自动生成我文案的流程图。
+![image](https://github.com/user-attachments/assets/65c42526-1aea-4558-9b3f-572d48438f12)
+
+![QQ_1721626588790](https://github.com/user-attachments/assets/9ae54f3c-3977-48a2-8b62-34cb38015f94)
+
+![QQ_1721626605861](https://github.com/user-attachments/assets/88a292e0-48c8-4cc9-8277-8fcf9c4469e3)
+
+
+## 售前/售后群
+
+
+![QQ_1721626647819](https://github.com/user-attachments/assets/6fbfd761-9c9b-4c84-b753-d2ab6142cfd6)
+
+
+## 同款官网直达ChatGPT站点和教程
 
 见仓库：https://github.com/sfvsfv/chatgpt-share
 
