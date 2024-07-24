@@ -4,6 +4,17 @@
 
 售后群或者这里的右侧可以下载客户端。
 
+## 使用方式
+
+1）用浏览器打开网站https://claude.zhangsan.shop
+2）选择空闲入口，填写授权码：
+![QQ_1721800078526](https://github.com/user-attachments/assets/2d3527c1-bca7-4d24-ad09-4c1221cac0d2)
+3)然后就可以进入官网界面了。
+
+![QQ_1721800110752](https://github.com/user-attachments/assets/16d66453-bcec-4aeb-8d44-9f82168ae816)
+
+注意：普号次数较少，pro相对较多。如果使用遇到提示没次数了，请右上角点击“换号”按钮，新建对话使用。
+
 ## 演示效果
 
 输入授权码后界面如下：
