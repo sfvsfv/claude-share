@@ -4,6 +4,12 @@
 
 售后群或者这里的右侧可以下载客户端。
 
+## 视频教程
+
+见B站：https://space.bilibili.com/591228087
+
+长期更新chatgpt和claude使用教学。
+
 ## 使用方式
 
 1）用浏览器打开网站https://claude.zhangsan.shop
@@ -53,6 +59,7 @@
 
 
 ### 流程图/各自图绘制
+### 流程图（支持中文）
 参考我的提问方式如下，自动生成我文案的流程图。
 ![image](https://github.com/user-attachments/assets/65c42526-1aea-4558-9b3f-572d48438f12)
 
@@ -60,8 +67,12 @@
 
 ![QQ_1721626605861](https://github.com/user-attachments/assets/88a292e0-48c8-4cc9-8277-8fcf9c4469e3)
 
+### 读文献
 
-## 售前/售后群
+![QQ_1721802804178](https://github.com/user-attachments/assets/193f92d5-b51b-4c50-acf4-c64d486d95e7)
+
+
+## 售前/售后群：491059981
 
 
 ![QQ_1721626647819](https://github.com/user-attachments/assets/6fbfd761-9c9b-4c84-b753-d2ab6142cfd6)
