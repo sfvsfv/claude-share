@@ -72,7 +72,7 @@
 ![QQ_1721802804178](https://github.com/user-attachments/assets/193f92d5-b51b-4c50-acf4-c64d486d95e7)
 
 
-## 售前/售后群：862121083 (
+## 售前/售后群：862121083 
 
 
 ## 同款官网直达ChatGPT站点和教程
