@@ -80,6 +80,5 @@
 见仓库：https://github.com/sfvsfv/chatgpt-share
 
 ## 书籍推荐
-纯python驱动，python是世界上最强最简单的编程语言
 
 学Python书籍推荐：《<a href="https://3.cn/1XjUJt-m">Python网络爬虫入门到实战</a>》和《<a href="https://item.jd.com/14049708.html">Python3编程从零基础到实战》
